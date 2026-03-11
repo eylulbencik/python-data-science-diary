@@ -1,23 +1,27 @@
-# Python Data Science: My Learning Diary 🗒️
+# Python Fundamentals
 
-Hello! I'm Eylül, a 2nd-year Computer Engineering student.
+A collection of Jupyter Notebooks focusing on core Python programming concepts. This repository serves as a foundational reference for basic syntax, data structures, and object-oriented programming in Python.
 
-This repository is my personal notebook for the **Veri Bilimi ve Makine Öğrenmesi 2026 : 100 Günlük Kamp** bootcamp. I am documenting my journey from Python fundamentals to advanced Machine Learning algorithms, focusing on building a strong analytical foundation.
+## 🗂️ Repository Contents
 
-## 📌 What you will find here:
+### 1. Core Data Structures
+* **Lists:** Creation, indexing, slicing, and list methods.
+* **Dictionaries:** Key-value pairs and dictionary operations.
+* **Sets & Tuples:** Immutable sequences and unique item collections.
 
-- **The Essentials:** Functions, OOP, and professional environment setups (PyCharm/Jupyter).
-- **Data Literacy:** Exploring SQL for data manipulation and deep dives into Statistics & Probability.
-- **The Analytics Stack:** Extensive daily practice with `NumPy`, `Pandas`, and visualization libraries like `Matplotlib` and `Seaborn`.
-- **Machine Learning Roadmap:** From Linear Regression to advanced Ensemble techniques (XGBoost, LightGBM) and Unsupervised Learning.
-- **End-to-End Projects:** Real-world datasets, feature engineering practices, and model deployment (Model to Product).
+### 2. Control Flow & Logic
+* **Booleans & Loops:** `for` loops, `while` loops, and conditional statements.
 
-## 🛠️ Tech Stack & Tools
+### 3. Functions
+* **Built-in Functions:** Utilizing Python's standard library functions.
+* **Custom Functions:** Defining functions, parameters, and return values.
+* **Advanced Arguments:** Working with `*args` and `**kwargs`.
 
-- **Language:** Python
-- **Data:** SQL, Pandas, NumPy
-- **Visualization:** Matplotlib, Seaborn
-- **ML:** Scikit-learn, XGBoost, LightGBM
-- **Environment:** JupyterLab, Anaconda, PyCharm
+### 4. Advanced Concepts
+* **Object-Oriented Programming (OOP):** Classes, inheritance, polymorphism, encapsulation, and abstraction.
+* **Handling Errors:** `try`, `except`, `finally` blocks for robust code.
+* **File Operations:** Reading from and writing to files (`.txt`).
 
-*Note: I am still a learner! This space reflects my curiosity, daily growth, and the evolution of my coding skills. Feel free to watch me learn! ✨*
+## 🛠️ Tech Stack
+* **Language:** Python 3
+* **Environment:** Jupyter Notebook
